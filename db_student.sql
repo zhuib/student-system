@@ -177,10 +177,4 @@ CREATE TABLE `tb_user` (
   PRIMARY KEY (`uid`) USING BTREE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 ROW_FORMAT=DYNAMIC;
 
--- ----------------------------
--- Records of tb_user
--- ----------------------------
-INSERT INTO `tb_user` VALUES ('1', '张辉滨', '123', '1548947');
-INSERT INTO `tb_user` VALUES ('2', '刘牧云', '123', '1546565');
-INSERT INTO `tb_user` VALUES ('3', '陈昌浩', '123', '4165465');
-INSERT INTO `tb_user` VALUES ('4', 'root', 'root', '1546285');
+
